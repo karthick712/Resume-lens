@@ -27,6 +27,7 @@ opencv-python-headless==4.12.0.88
 # PyTorch (required by docling-ibm-models)
 torch==2.4.1
 torchvision==0.19.1 
+onnxruntime==1.19.2
 
 # PDF parsing
 pypdfium2==4.30.0
@@ -36,5 +37,6 @@ pdfminer.six
 # Misc LangChain extras
 langchain-community==0.3.31
 langchain-text-splitters==0.3.11
+
 
 
